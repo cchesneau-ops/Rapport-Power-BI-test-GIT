@@ -27,7 +27,7 @@
       "name": "98c81d8fdb107ce6e6d0",
       "visualContainers": [
         {
-          "config": "{\"name\":\"86c1ec5b60842424bd85\",\"layouts\":[{\"id\":0,\"position\":{\"x\":8,\"y\":0,\"z\":0,\"width\":288,\"height\":120,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"bonjour !\"}]}]}}]}}}",
+          "config": "{\"name\":\"86c1ec5b60842424bd85\",\"layouts\":[{\"id\":0,\"position\":{\"x\":8,\"y\":0,\"z\":0,\"width\":288,\"height\":120,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"bonjour Benjamin !\"}]}]}}]}}}",
           "filters": "[]",
           "height": 120.00,
           "width": 288.00,
